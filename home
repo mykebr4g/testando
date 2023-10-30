@@ -13,13 +13,13 @@
     <div>
     <h1>teste</h1>
         <nav>
-            <a href="Home.html" class="btn-zoom" title="Home">Home</a>
-            <a href="Cidadania.html" class="btn-zoom" title="Cidadania">Cidadania</a>
-            <a href="Ética.html" class="btn-zoom" title="Ética">Ética</a>
-            <a href="Moral.html" class="btn-zoom" title="Moral">Moral</a>
-            <a href="Jogos.html" class="btn-zoom" title="Jogos">Jogos</a>
-            <a href="Bulling.html" class="btn-zoom" title="Bulling">Bulling</a>
-            <a href="Contato.html" class="btn-zoom" title="Contato">Contato</a>
+            <a href="" class="btn-zoom" title="Home">Home</a>
+            <a href="" class="btn-zoom" title="Cidadania">Cidadania</a>
+            <a href="" class="btn-zoom" title="Ética">Ética</a>
+            <a href="" class="btn-zoom" title="Moral">Moral</a>
+            <a href="" class="btn-zoom" title="Jogos">Jogos</a>
+            <a href="" class="btn-zoom" title="Bulling">Bulling</a>
+            <a href="" class="btn-zoom" title="Contato">Contato</a>
         </nav>
     </div>
     <h1></h1>

@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Lugares Turísticos na Europa</title>
+</head>
+<body>
+
+<header>
+    <h1>Lugares Turísticos na Europa</h1>
+</header>
+
+<main>
+    <section>
+        <h2>Paris, França</h2>
+        <p>Paris, a capital da França, é conhecida como a Cidade Luz e é famosa por sua arquitetura deslumbrante, incluindo a Torre Eiffel, o Louvre e a Catedral de Notre-Dame.</p>
+        <img src="paris.jpg" alt="Torre Eiffel em Paris">
+    </section>
+
+    <section>
+        <h2>Roma, Itália</h2>
+        <p>Roma é uma cidade rica em história e lar do Coliseu, do Fórum Romano e do Vaticano, com a Basílica de São Pedro e a Capela Sistina.</p>
+        <img src="roma.jpg" alt="Coliseu em Roma">
+    </section>
+
+    <section>
+        <h2>Barcelona, Espanha</h2>
+        <p>Barcelona é famosa por sua arquitetura única, incluindo as obras de Antoni Gaudí, como a Sagrada Família e o Parque Güell.</p>
+        <img src="barcelona.jpg" alt="Sagrada Família em Barcelona">
+    </section>
+
+    <section>
+        <h2>Santorini, Grécia</h2>
+        <p>Santorini é uma ilha grega pitoresca, conhecida por suas casas brancas com telhados azuis e vistas espetaculares do Mar Egeu.</p>
+        <img src="santorini.jpg" alt="Vista de Santorini, Grécia">
+    </section>
+</main>
+
+<footer>
+    <p>&copy; 2023 Lugares Turísticos na Europa</p>
+</footer>
+
+</body>
+</html>
